@@ -1,4 +1,2 @@
 
-Hey, I'm ingesting the data in the file.
-
-Started working on it.
+Hey, I'm ingesting the data in the file
